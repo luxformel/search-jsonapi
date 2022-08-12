@@ -1,0 +1,205 @@
+{
+  "resources": [
+    {
+      "subject": "chimie",
+      "topic": "redoxreaktionen",
+      "keyWords": ["oxidationszahl", "oz", "clonbrif", "aufstellen", "lösung"]
+    },
+    {
+      "subject": "divers",
+      "topic": "alphabet",
+      "keyWords": ["alpha", "beta", "gamma", "sigma", "pi"]
+    },
+    {
+      "subject": "divers",
+      "topic": "exotische umwandlungen",
+      "keyWords": [
+        "exotische",
+        "angstrom",
+        "bar",
+        "elektonenvolt",
+        "atomare masseneinheit"
+      ]
+    },
+    {
+      "subject": "divers",
+      "topic": "naturkonstanten",
+      "keyWords": [
+        "lichtgeschwindigkeit",
+        "avogadro",
+        "konstante",
+        "gravitationskonstante",
+        "na"
+      ]
+    },
+    {
+      "subject": "divers",
+      "topic": "präfixe",
+      "keyWords": ["milli", "kilo", "mikro", "piko", "zahlwort"]
+    },
+    {
+      "subject": "elektrotechnik",
+      "topic": "induktionsgesetz herleitung",
+      "keyWords": [
+        "induktion",
+        "induziert",
+        "leiterschleife",
+        "flussänderung",
+        "Windungen"
+      ]
+    },
+    {
+      "subject": "elektrotechnik",
+      "topic": "kondesator",
+      "keyWords": [
+        "Farad",
+        "kapazität",
+        "e0",
+        "elektrische feldkonstante",
+        "elektrisches feld"
+      ]
+    },
+    {
+      "subject": "elektrotechnik",
+      "topic": "magnetismus",
+      "keyWords": ["magnet", "magnetischer fluss", "flussdichte"]
+    },
+    {
+      "subject": "elektrotechnik",
+      "topic": "transformator",
+      "keyWords": [
+        "eisenkern",
+        "ü",
+        "sekundarspule",
+        "primärspule",
+        "windungen"
+      ]
+    },
+    {
+      "subject": "mathe",
+      "topic": "derivation",
+      "keyWords": ["f(x)", "constante", "dx", "tangente", "tableau"]
+    },
+    {
+      "subject": "mathe",
+      "topic": "limites",
+      "keyWords": [
+        "asyptote",
+        "horizontale",
+        "verticale",
+        "oblique",
+        "terme du plus haut degree",
+        "minoration",
+        "majoration",
+        "comparaison",
+        "gendarmes"
+      ]
+    },
+    {
+      "subject": "mathe",
+      "topic": "probabilite",
+      "keyWords": [
+        "arangement",
+        "repetition",
+        "permutation",
+        "combinaison",
+        "factorielle"
+      ]
+    },
+    {
+      "subject": "mathe",
+      "topic": "trigonometrie",
+      "keyWords": [
+        "sin",
+        "cos",
+        "tan",
+        "valeurs remarquables",
+        "triangle",
+        "cot"
+      ]
+    },
+    {
+      "subject": "physik",
+      "topic": "arbeit und leistung",
+      "keyWords": [
+        "watt",
+        "energie",
+        "wirkungsgrad",
+        "lageenergie",
+        "kinetischeenergie",
+        "newton meter",
+        "joule"
+      ]
+    },
+    {
+      "subject": "physik",
+      "topic": "gasgesetze",
+      "keyWords": [
+        "boyle mariotte",
+        "gay lussac",
+        "ideale gase",
+        "amotons",
+        "gaskonstante",
+        "boltzmannkonstante"
+      ]
+    },
+    {
+      "subject": "physik",
+      "topic": "gravitation",
+      "keyWords": [
+        "gravitationskonstante",
+        "kepler",
+        "satellit",
+        "G",
+        "umlaufzeit"
+      ]
+    },
+    {
+      "subject": "physik",
+      "topic": "impuls",
+      "keyWords": [
+        "zentraler elastischer stoss",
+        "zentraler unelastischer stoss",
+        "impulserhaltung",
+        "p=mv"
+      ]
+    },
+    {
+      "subject": "physik",
+      "topic": "kinematik",
+      "keyWords": ["ggb"]
+    },
+    {
+      "subject": "physik",
+      "topic": "reibung",
+      "keyWords": ["selbsthemmung", "haftreibung", "gleitreibung", "arctan"]
+    },
+    {
+      "subject": "physik",
+      "topic": "schwingungen",
+      "keyWords": [
+        "elongation",
+        "auslenkung",
+        "amplitude",
+        "harmonische schwingung",
+        "phase",
+        "phasenwinkel",
+        "kreisfrequenz",
+        "fadenpendel",
+        "federpendel"
+      ]
+    },
+    {
+      "subject": "physik",
+      "topic": "würfe",
+      "keyWords": [
+        "senkrechter wurf",
+        "wurfparabel",
+        "bahngeschwindigkeit",
+        "steigzeit",
+        "waagerechter wurf",
+        "schräger wurf"
+      ]
+    }
+  ]
+}
